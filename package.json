@@ -27,6 +27,6 @@
     "sourcebit": "^0.7.1",
     "sourcebit-source-sanity": "^0.2.0",
     "sourcebit-target-next": "^0.2.0",
-    "ws": "^7.2.1"
+    "ws": "^7.4.6"
   }
 }
